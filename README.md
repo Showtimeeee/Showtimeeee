@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://scitechdaily.com/images/NASA-Mars-Perseverance-Rover-Driving.gif" width="100"/>
+  <img src="https://i.gifer.com/1V49.gif" width="100"/>
 </div>
 <!--
 **Showtimeeee/Showtimeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
