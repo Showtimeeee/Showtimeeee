@@ -1,9 +1,6 @@
 ### <h1>Hi there 👋
 
 
-
-   *Curiosity (любознательность)* <h1/>
-
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/1a8d99d694a580a233bd60d8c035aa7f868cec5a0749b6ac5e4fd4400d961976/68747470733a2f2f736369746563686461696c792e636f6d2f696d616765732f4e4153412d4d6172732d5065727365766572616e63652d526f7665722d44726976696e672e676966"/>
 </div>
