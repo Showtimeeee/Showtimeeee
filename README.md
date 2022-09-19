@@ -14,7 +14,7 @@
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
   
-  :monocle_face:"I am a beginner Developer  from Russia."
+  :monocle_face:Python Developer From Russia
   ---
   ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -44,7 +44,7 @@
 ---
 <img src="https://hsto.org/r/w1560/webt/dk/_u/ms/dk_umskckykh8zvewyloyhioug0.jpeg" >
 <!--
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
