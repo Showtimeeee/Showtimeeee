@@ -39,9 +39,6 @@
   
 ---
   
-
----
-<img src="https://hsto.org/r/w1560/webt/dk/_u/ms/dk_umskckykh8zvewyloyhioug0.jpeg" >
 <!--
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
