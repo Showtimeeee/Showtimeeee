@@ -10,6 +10,7 @@
 :monocle_face:Python Developer From Russia
 ---
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW05am9xdHU2b296OWY5OWdqOXByMHBrN3BlM2w0Z3MzMTVucmd4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" width="100"/><img src="https://media.giphy.com/media/rvrLXuFz9at35Qcgod/giphy.gif" width="100"/>
+</div>
 
 
 
@@ -44,10 +45,10 @@
   
 ---
   ## 🛠 Technical Stack
-*   Python, Go
-*   PostgreSQL, MySQL
-*   Django Framework, Flask, FastApi, Bottle and so on...
-*   Docker, Redis
+* Python, Go
+* PostgreSQL, MySQL
+* Django Framework, Flask, FastApi, Bottle and so on...
+* Docker, Redis
 ---
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
