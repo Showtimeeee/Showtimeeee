@@ -49,6 +49,7 @@
 * PostgreSQL, MySQL
 * Django Framework, Flask, FastApi, Bottle and so on...
 * Docker, Redis
+* Unittest, Pytest
 ---
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
