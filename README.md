@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://usagif.com/wp-content/uploads/gif/outerspace-75.gif" width="500" height="500"/>
+  <img src="https://usagif.com/wp-content/uploads/gif/outerspace-75.gif" width="800" height="500"/>
 
 <h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
 
