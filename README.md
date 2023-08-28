@@ -6,14 +6,9 @@
 
 <h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
 
----
-:monocle_face:Python Developer From Russia
----
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW05am9xdHU2b296OWY5OWdqOXByMHBrN3BlM2w0Z3MzMTVucmd4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" width="100"/><img src="https://media.giphy.com/media/rvrLXuFz9at35Qcgod/giphy.gif" width="100"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
 </div>
-
-
-
 
 <!--
 <div id="badges">
@@ -22,7 +17,7 @@
 </div>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 -->  
-  ### :hammer_and_wrench: Languages and Tools :
+  
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
@@ -41,10 +36,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino"  alt="arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu"  alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Git" **alt="elixir" width="30" height="30"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" **alt="redis" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" **alt="godot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>  
 </div>
   
 ---
-  ## 🛠 Technical Stack
+  ## 🛠 Languages and Tools :
 * Python, Go
 * PostgreSQL, MySQL
 * Django, Flask, FastApi, Bottle and so on...
