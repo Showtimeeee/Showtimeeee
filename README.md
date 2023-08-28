@@ -51,10 +51,15 @@
 * Docker, Redis
 * Unittest, Pytest
 ---
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=DE002D">
    </a>
+
 </div>
 <!--
 🔭 I’m currently working on ...
