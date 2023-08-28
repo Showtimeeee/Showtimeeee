@@ -8,14 +8,20 @@
 <h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
 
 ---
-
-
-
-
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
-  
-  :monocle_face:Python Developer From Russia
+:monocle_face:Python Developer From Russia
   ---
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW05am9xdHU2b296OWY5OWdqOXByMHBrN3BlM2w0Z3MzMTVucmd4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif" width="100"/><img src="https://media.giphy.com/media/rvrLXuFz9at35Qcgod/giphy.gif" width="100"/>
+
+
+
+
+<!--
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  
+</div>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
+-->  
   ### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -38,7 +44,11 @@
 </div>
   
 ---
-  
+  ## 🛠 Technical Stack
+*   Python, Go
+*   PostgreSQL, MySQL
+*   Django Framework, Flask, FastApi, Bottle and so on...
+*   Docker, Redis
 <!--
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
