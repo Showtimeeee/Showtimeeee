@@ -5,10 +5,11 @@
   <img src="https://usagif.com/wp-content/uploads/gif/outerspace-75.gif" width="800" height="500"/>
 
 <h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
-
-
+</div>
+<!--
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
 </div>
+--> 
 
 <!--
 <div id="badges">
@@ -54,8 +55,9 @@
 * Django, Flask, FastApi, Bottle and so on...
 * Docker, Redis
 * Unittest, Pytest
----
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
+</div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
