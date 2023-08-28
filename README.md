@@ -56,15 +56,17 @@
 * Docker, Redis
 * Unittest, Pytest
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=DE002D">
-   </a>
+       <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=DE002D"></a></div>
+  <div align="center" style="margin: 40px 0">     
+       <img       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
+   
+   
 
 </div>
 <!--
