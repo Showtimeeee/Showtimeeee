@@ -47,7 +47,7 @@
   ## 🛠 Technical Stack
 * Python, Go
 * PostgreSQL, MySQL
-* Django Framework, Flask, FastApi, Bottle and so on...
+* Django, Flask, FastApi, Bottle and so on...
 * Docker, Redis
 * Unittest, Pytest
 ---
