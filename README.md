@@ -51,8 +51,8 @@
 ---
   # 🛠 Languages and Tools:
 * Python, Go
+* Flask, Django, FastApi, Bottle and so on...
 * PostgreSQL, MySQL, Redis
-* Django, Flask, FastApi, Bottle and so on...
 * Docker 
 * Unittest, Pytest
 
