@@ -51,9 +51,9 @@
 ---
   # 🛠 Languages and Tools:
 * Python, Go
-* PostgreSQL, MySQL
+* PostgreSQL, MySQL, Redis
 * Django, Flask, FastApi, Bottle and so on...
-* Docker, Redis
+* Docker 
 * Unittest, Pytest
 
 </div>
