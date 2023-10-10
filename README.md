@@ -62,7 +62,7 @@
 
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=DE002D"></a></div>
+       <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=blueviolet"></a>
   <div align="center" style="margin: 40px 0">     
        <img       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
    
