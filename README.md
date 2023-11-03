@@ -58,7 +58,7 @@
 
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Showtimeeee&theme=radical)
 
   <div align="center" style="margin: 40px 0">
