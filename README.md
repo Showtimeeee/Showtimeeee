@@ -1,23 +1,15 @@
 <h1 align="center">Hi there 👋</h1>
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHA4ZGtmczJtNnltNjB3MGZyZTBpNGdzY2FoaXA2cjRvdjFhNzI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mJEekHXkjSCnWGTym/giphy.gif" width="600" height="400"/>
-
-<h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
-</div>
-<!--
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
-</div>
---> 
-
-<!--
-<div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+<h1 align="center">
   
 </div>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
--->  
+
+<h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
+</div>
+
+
+
+
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -47,19 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>  
     
 </div>
-  
----
-  # 🛠 Languages and Tools:
-* Python, Go
-* Flask, Django, FastApi, Bottle and so on...
-* PostgreSQL, MySQL, Redis
-* Docker 
-* Unittest, Pytest
 
-</div>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Showtimeeee&theme=radical)
 
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
