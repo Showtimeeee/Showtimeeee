@@ -4,11 +4,6 @@
 </div>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 
-<h1 align="center">"I could either watch it happen or be a part of it...(с)" :rocket:</h1>
-</div>
-
-
-
 
   
   <div>
