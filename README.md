@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>  
 </div>
 
-
+---
   <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=blueviolet"></a>
