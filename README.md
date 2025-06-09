@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">
   
-![Фон](https://video.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/2ef0f843-a9ca-4719-ace1-d4408de103f9/thumbnail)
+![gachi-billy-herrington](https://github.com/user-attachments/assets/a78ddb76-b936-423a-9ae0-2f7777143c4b)
+
 
   <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
