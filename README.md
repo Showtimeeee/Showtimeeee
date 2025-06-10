@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">
   
-![gachi-billy-herrington](https://github.com/user-attachments/assets/a78ddb76-b936-423a-9ae0-2f7777143c4b)
+![monk-gta](https://github.com/user-attachments/assets/45d5a9f1-b9c5-4b53-bbc2-10041afa70e9)
 
 
   <div>
