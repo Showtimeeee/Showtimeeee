@@ -1,10 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">
   
-![monk-gta](https://github.com/user-attachments/assets/45d5a9f1-b9c5-4b53-bbc2-10041afa70e9)
-
-
-  <div>
+<div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
@@ -24,8 +21,6 @@
 
 ---
   <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=Showtimeeee&color=blueviolet"></a>
   <div align="center" style="margin: 40px 0">     
        <img       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyb280cnB4YnFrbTZrNHNkeTR2ZGE3MTAzemZxdmY5NTk5NzNqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="100"/>
    
