@@ -1,9 +1,12 @@
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">
-
-<img src="https://github.com/user-attachments/assets/7e0fa7e4-47fa-4a30-87d7-5d8d1d5a57cd" width="500" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+don't+click+buttons;I+write+scripts+to+click+them+for+me" alt="Typing SVG" />
+    <img src="https://github.com/user-attachments/assets/7e0fa7e4-47fa-4a30-87d7-5d8d1d5a57cd" width="500" />
+  </a>
+</div>
 
 ---
+
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="35" height="35"/>&nbsp;
@@ -26,8 +29,11 @@
 <!--
 <img src="https://github.com/user-attachments/assets/d7ff787b-931c-4d0e-920c-fbfe113abe01" width="300" />
 -->
-<img src="https://github.com/user-attachments/assets/67add85d-bbd3-4ca5-9ee3-f7e2f1d2674c" width="250" />
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/84340cba-9087-46b0-b50c-0e0bd61b799c" alt="giphydog" />
+</div>
 
 
 
