@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+don't+click+buttons;I+write+scripts+to+click+them+for+me" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋;I+don't+click+buttons;I+write+scripts+to+click+them+for+me" alt="Typing SVG" />
     <img src="https://github.com/user-attachments/assets/7e0fa7e4-47fa-4a30-87d7-5d8d1d5a57cd" width="500" />
   </a>
 </div>
@@ -26,16 +26,14 @@
 </div>
 
 ---
+
 <!--
 <img src="https://github.com/user-attachments/assets/d7ff787b-931c-4d0e-920c-fbfe113abe01" width="300" />
 -->
 
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/84340cba-9087-46b0-b50c-0e0bd61b799c" alt="giphydog" />
 </div>
-
-
 
 <!--
 🔭 I’m currently working on ...
