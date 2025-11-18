@@ -5,6 +5,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/84340cba-9087-46b0-b50c-0e0bd61b799c" width="300"" />
+
+
 ---
 
 <div>
@@ -31,9 +35,7 @@
 <img src="https://github.com/user-attachments/assets/d7ff787b-931c-4d0e-920c-fbfe113abe01" width="300" />
 -->
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/84340cba-9087-46b0-b50c-0e0bd61b799c" alt="giphydog" />
-</div>
+
 
 <!--
 🔭 I’m currently working on ...
