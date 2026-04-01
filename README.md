@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img width="889" height="591" alt="bggtwp" src="https://github.com/user-attachments/assets/d3c4359c-377a-49a3-b662-f192c2e39339" />
+  <img width="789" height="491" alt="bggtwp" src="https://github.com/user-attachments/assets/d3c4359c-377a-49a3-b662-f192c2e39339" />
 </p>
 
 ---
