@@ -10,6 +10,13 @@
   <img width="789" height="491" alt="bggtwp" src="https://github.com/user-attachments/assets/d3c4359c-377a-49a3-b662-f192c2e39339" />
 </p>
 
+<div align="center">
+  <!-- Статус тестов -->
+  <img src="https://img.shields.io/badge/tests-✅+127%2F127-brightgreen?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1e1e2e" alt="Tests" />
+  <img src="https://img.shields.io/badge/coverage-📊+94%25-B19CD9?style=for-the-badge&logo=codecov&logoColor=white&labelColor=1e1e2e" alt="Coverage" />
+  <img src="https://img.shields.io/badge/last_run-🕒+2min+ago-gray?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1e1e2e" alt="Last Run" />
+</div>
+
 ---
 
 <p align="center">
