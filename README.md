@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/tests-✅+127%2F127-brightgreen?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1e1e2e" alt="Tests" />
   <img src="https://img.shields.io/badge/coverage-📊+94%25-B19CD9?style=for-the-badge&logo=codecov&logoColor=white&labelColor=1e1e2e" alt="Coverage" />
   <img src="https://img.shields.io/badge/last_run-🕒+2min+ago-gray?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1e1e2e" alt="Last Run" />
+  <img src="https://img.shields.io/badge/🤖+BOT-🟢+ONLINE-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e1e2e&color=B19CD9" alt="Bot Status" />
 </div>
 
 ---
@@ -38,15 +39,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>
   </div>
 </p>
-
-
----
-
-<!--
-<img src="https://github.com/user-attachments/assets/d7ff787b-931c-4d0e-920c-fbfe113abe01" width="300" />
--->
-
-
 
 <!--
 🔭 I’m currently working on ...
