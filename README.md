@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/coverage-📊+94%25-B19CD9?style=for-the-badge&logo=codecov&logoColor=white&labelColor=1e1e2e" alt="Coverage" />
   <img src="https://img.shields.io/badge/last_run-🕒+2min+ago-gray?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1e1e2e" alt="Last Run" />
   <img src="https://img.shields.io/badge/🤖+BOT-🟢+ONLINE-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e1e2e&color=B19CD9" alt="Bot Status" />
+  <img src="https://img.shields.io/badge/🐳+Containerized-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄+CI/CD+Ready-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝+API+Documented-1e1e2e?style=for-the-badge" />
 </div>
 
 ---
